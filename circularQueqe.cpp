@@ -50,6 +50,7 @@ int main(){
     //in CIRCULAR queue we assign F R from 0 so that one element of queuq will always be empty
     //so that there will be no overriding
     // use % for moving in a circular loop
+    //over git
     node->f=0;
     node->r = 0;
     node->arr = new int [node->size];
